@@ -107,3 +107,14 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# JetBrains Rider
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+*.DotSettings.user
+*.sln.DotSettings.user
+/[Aa]ssets/Plugins/Editor/JetBrains*
+/[Aa]ssets/Plugins/Editor/JetBrains*.meta
